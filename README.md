@@ -1,9 +1,7 @@
 # YOLOv8-with-RGB-D-and-AFFP
-![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/181856fe-8a9e-4b1c-80c7-54511a6c1244)
-![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/77e28f13-c564-4204-8460-2c3fbeb81de6)
 
-![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/2121fa3e-b28a-4b88-9cb9-2a8ff4a0b61c)
-![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/66257a41-d7b4-42a4-a7d5-6c43deb10e1f)
-
-
+![图片1](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/6aadf1a9-f76a-4b70-9649-30e90672ffd7)
+![图片2](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/734504fc-8222-43ab-9c68-7468311652f2)
+![图片3](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/7f54f807-261a-4d81-ad9c-3e62f64282dd)
+![图片4](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/ce0798b2-20c4-4474-9cbd-1baf1d9ae539)
 
