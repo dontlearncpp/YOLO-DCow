@@ -1,6 +1,6 @@
 # YOLOv8-with-RGB-D-and-AFFP
+![1](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/bb675421-9e64-4afb-8102-355ceb422793)![3](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/b6cb753e-bbc4-4c1a-904a-66f2f2e3ebd7)
 
-![image23_3](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/242e143d-9031-4fe2-9d82-f9690a6edb50)
-![image22](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/76e77560-9f1a-4957-b89a-e5bc2ee7fa5f)
-![image26](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/a3658d53-e9be-4c05-b0de-14fffe510839)
-![image27](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/f95bcb85-0dea-4844-9f06-36621697bf9c)
+![4](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/9d10edda-c64d-47b0-8a82-f85a99378607)![2](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/dbe00efa-7688-4651-b27e-9b5a84970481)
+
+
