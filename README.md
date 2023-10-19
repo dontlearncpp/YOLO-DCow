@@ -21,6 +21,11 @@ The main code changes we made are predictor.py, stream_loaders.py, base.py, /ult
 Input/output image path was Specified in
 /predict.py
 
+## Dep2pointcloud
+Using our predict code,  the segmentation image was get as shown, and it was into a point cloud with dep2point.py
+![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/0fb74830-da11-4623-b90b-e2e9660a0ede)
+
+
 
 
 
