@@ -9,11 +9,19 @@ The main code changes we made are predictor.py, stream_loaders.py, base.py, and 
 ### Specify the depth image path
 In YOLOv8-with-RGB-D-and-AFFP/ultralytics/yolo/data/base.py
 Lines 122-135
+The depth image path was Specified.
 ### AFFP
 ![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/19cbfbfe-ba9c-4ec2-a4a5-31fb68fa81dd)
 In YOLOv8-with-RGB-D-and-AFFP/ultralytics/nn/ssf.py
 
 ## Predict
+The main code changes we made are predictor.py, stream_loaders.py, base.py, /ultralytics/yolo/v8/segment
+/predict.py and so on.
+
+Input/output image path was Specified in
+/predict.py
+
+
 
 
 
