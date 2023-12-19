@@ -1,3 +1,5 @@
+
+## The code for Train & Eval, Predict is in different branchs.
 # YOLOv8-with-RGB-D-and-AFFP
 This is an official implementation of a paper titled "Deep instance segmentation network based cow shape extraction using RGB-D images"
 All codes will be published here.
