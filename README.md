@@ -27,8 +27,7 @@ Input/output image path was Specified in
 Using our predict code,  the segmentation image was get as shown, and it was into a point cloud with dep2point.py
 ![image](https://github.com/dontlearncpp/YOLOv8-with-RGB-D-and-AFFP/assets/103402250/0fb74830-da11-4623-b90b-e2e9660a0ede)
 
-## If this code is helpful to you, please cite our related paper. 
-Yang, G., Li, R., Zhang, S., Wen, Y., Xu, X., & Song, H. (2023). Extracting cow point clouds from multi-view RGB images with an improved YOLACT++ instance segmentation. Expert Systems with Applications, 230, 120730.
+
 
 
 
